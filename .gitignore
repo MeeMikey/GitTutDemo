@@ -1,0 +1,7 @@
+# error.log
+*.log
+# dir 
+/dir/
+op.txt
+# engine.txt
+nn.txt
